@@ -19,7 +19,7 @@
     "edtValidate": false,
     "smoke": false,
     "yaxunit": true,
-    "email": true,
+    "email": false,
     "telegram": false
   },
   "timeout": {
